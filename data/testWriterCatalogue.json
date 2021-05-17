@@ -1,0 +1,30 @@
+{
+    "instructorList": [
+        {
+            "pass": "instructor1",
+            "name": "testInstructor1",
+            "id": "86520489",
+            "email": "intructor1@student.ubc.ca"
+        },
+        {
+            "pass": "instructor2",
+            "name": "testInstructor2",
+            "id": "23524628",
+            "email": "intructor2@student.ubc.ca"
+        }
+    ],
+    "studentList": [
+        {
+            "pass": "student1",
+            "name": "testStudent1",
+            "id": "46447389",
+            "email": "student1@student.ubc.ca"
+        },
+        {
+            "pass": "student2",
+            "name": "testStudent2",
+            "id": "59452992",
+            "email": "student2@student.ubc.ca"
+        }
+    ]
+}

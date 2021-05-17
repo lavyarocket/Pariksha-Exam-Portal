@@ -1,0 +1,54 @@
+{"examList": [
+    {
+        "name": "TestName1",
+        "title": "TestTitle1",
+        "questionList": [
+            {
+                "answer": "testAns1",
+                "ques": "testQues1"
+            },
+            {
+                "answer": "testAns2",
+                "ques": "testQues2"
+            },
+            {
+                "answer": "testAns3",
+                "ques": "testQues3"
+            },
+            {
+                "answer": "testAns4",
+                "ques": "testQues4"
+            }
+        ]
+    },
+    {
+        "name": "TestName2",
+        "title": "TestTitle2",
+        "questionList": [
+            {
+                "answer": "testAns1",
+                "ques": "testQues1"
+            },
+            {
+                "answer": "testAns2",
+                "ques": "testQues2"
+            },
+            {
+                "answer": "testAns3",
+                "ques": "testQues3"
+            },
+            {
+                "answer": "testAns4",
+                "ques": "testQues4"
+            },
+            {
+                "answer": "testAns5",
+                "ques": "testQues5"
+            },
+            {
+                "answer": "testAns6",
+                "ques": "testQues6"
+            }
+        ]
+    }
+]}
